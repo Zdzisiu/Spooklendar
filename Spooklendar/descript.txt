@@ -30,7 +30,7 @@ year.spacing,0
 today.pos.x,26
 today.pos.y,0
 
-current.pos.x,0
+current.pos.x,-5
 current.pos.y,0
 
 
