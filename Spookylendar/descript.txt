@@ -1,7 +1,7 @@
 charset,UTF-8
 
 //——— Basic information ———
-name,Spooklendar
+name,Spookylendar
 craftman,Zdzisiu
 craftmanurl,zdzisiu.github.io/ukagaka/
 
