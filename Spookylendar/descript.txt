@@ -1,0 +1,75 @@
+charset,UTF-8
+
+//——— Basic information ———
+name,Spooklendar
+craftman,Zdzisiu
+craftmanurl,zdzisiu.github.io/ukagaka/
+
+//——— Table ———
+table.left,6
+table.top,320
+table.right,294
+table.bottom,500
+
+
+//——— Numbers ———
+day.pos.x,3
+day.pos.y,10
+
+day.spacing,0
+saturday.spacing,0
+holiday.spacing,0
+
+year.pos.x,230
+year.pos.y,270
+
+year.spacing,0
+
+
+//——— Day markers ———
+today.pos.x,26
+today.pos.y,0
+
+current.pos.x,-5
+current.pos.y,0
+
+
+//——— Event markers ———
+icon.left,1
+icon.top,21
+icon.right,41
+icon.bottom,41
+
+icon.width,10
+icon.height,10
+
+
+//——— Month names ———
+month.pos.x,0
+month.pos.y,0
+
+
+//——— Next & previous month buttons ———
+prev.left,105
+prev.top,250
+prev.right,150
+prev.bottom,300
+
+next.left,150
+next.top,250
+next.right,190
+next.bottom,300
+
+
+//——— Filenames ———
+day.filename,numbers/num
+saturday.filename,numbers/nums
+holiday.filename,numbers/numh
+
+year.filename,numbers/num
+month.filename,months/month
+
+today.filename,today
+current.filename,current
+
+background.filename,bg
